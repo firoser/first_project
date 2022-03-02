@@ -1,7 +1,7 @@
 p= 7
 print (p)
 
-q=9
+q=10
 print (q)
 
 print (p*q)
